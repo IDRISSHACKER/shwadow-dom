@@ -1,0 +1,24 @@
+{
+  "name": "dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IDRISSHACKER/shwadow-dom.git"
+  },
+  "keywords": [
+    "shadow-dom",
+    "javascript",
+    "html"
+  ],
+  "author": "IDRISSHACKER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDRISSHACKER/shwadow-dom/issues"
+  },
+  "homepage": "https://github.com/IDRISSHACKER/shwadow-dom#readme"
+}
